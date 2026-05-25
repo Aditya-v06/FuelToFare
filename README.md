@@ -34,3 +34,10 @@ Avg Fuel Cost = AVERAGE(airline_ticket_prices[fuel_cost_pct_opex])
 
 ## Output
 <img width="1191" height="665" alt="Screenshot 2026-05-25 183926" src="https://github.com/user-attachments/assets/96c60c3d-89d2-4c30-865a-453273bb3994" />
+
+## Dataset
+Source: https://www.kaggle.com/datasets/zkskhurram/airline-ticket-prices-vs-oil-and-fuel-costs  
+
+Dataset 1 — Oil & Jet Fuel Prices (oil_jet_fuel_prices.csv)
+
+Dataset 2 — Airline Ticket Prices (airline_ticket_prices.csv)
